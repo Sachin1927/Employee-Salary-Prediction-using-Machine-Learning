@@ -31,6 +31,7 @@ experience	Total years of experience
 skill	Skill level (Beginner, Intermediate, Advanced)
 location	City or region of employment
 salary	Annual salary (target variable)
+
 ⚙️ Project Workflow
 
 Data Preprocessing
@@ -99,28 +100,34 @@ XGBoost	0.94	Lowest	✅ Best performer
 
 🔹 Salary Distribution by Experience
 
-Visualizing how salary increases with experience, identifying linear and non-linear growth patterns.
+
 <img width="851" height="501" alt="Screenshot 2025-11-06 000733" src="https://github.com/user-attachments/assets/b988b5b6-5bcc-4403-806d-fa6d5e8ab8a9" />
 
 
 🔹 Education Level Impact on Salary
 
-Higher education levels (Master’s, PhD) correlate with higher salary ranges.
+<img width="936" height="645" alt="image" src="https://github.com/user-attachments/assets/c3f64b2a-5ad5-49cb-9925-d40c5d1dc8ba" />
+
 
 
 🔹 Skill vs Salary Correlation
 
-Strong positive relationship between skill proficiency and compensation.
+<img width="746" height="549" alt="Screenshot 2025-11-06 001736" src="https://github.com/user-attachments/assets/6a5d8a25-48ec-46f8-a927-ccb328a2c220" />
+
 
 
 🔹 Feature Importance (XGBoost)
 
-Shows which variables most strongly influence the salary prediction.
+<img width="992" height="629" alt="Screenshot 2025-11-06 001304" src="https://github.com/user-attachments/assets/41064f5f-e771-4bf2-91e6-b1c755188768" />
+
 
 
 🔹 Model Performance Comparison
 
-Bar chart comparing all trained models (R² and RMSE).
+<img width="737" height="620" alt="Screenshot 2025-11-06 001521" src="https://github.com/user-attachments/assets/20368136-8f55-46fd-8484-61d4b6ba21ae" />
+<img width="749" height="439" alt="Screenshot 2025-11-06 001534" src="https://github.com/user-attachments/assets/882c1b93-0aa9-48e4-8a33-dd23c094e853" />
+
+
 
 🔮 Insights
 
